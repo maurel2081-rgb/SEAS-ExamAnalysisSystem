@@ -3,10 +3,10 @@
  * Author: Momo Maurel Dorian Patsa
  * Country: Cameroon
  * Purpose: Grading MCQ exams and flag suspiciouscanswer patterns pairs
-            for human investigation. My program does NOT accuss students
+            for human investigation. My program does NOT accuse students
             of examination malpractice!
     
-   "Integrity is doing the right thing, even when no one is watching."
+ "Integrity is doing the right thing, even when no one is watching."
                                                        ~ C.S. Lewis
 */
 
