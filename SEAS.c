@@ -2,7 +2,7 @@
  * SEAS - Smart Examination Anti-Cheat System
  * Author: Momo Maurel Dorian Patsa
  * Country: Cameroon
- * Purpose: Grading MCQ exams and flag suspiciouscanswer patterns pairs
+ * Purpose: Grading MCQ exams and flag suspicious seat/answer patterns in pairs
             for human investigation. My program does NOT accuse students
             of examination malpractice!
     
